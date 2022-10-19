@@ -1,3 +1,7 @@
 Leonardo Henrique da Silva Bastos
 
+<<<<<<< HEAD
 lol
+=======
+Biscoito
+>>>>>>> master
